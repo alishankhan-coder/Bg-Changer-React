@@ -3,13 +3,6 @@
 A simple yet elegant React application that allows users to change the background color of the screen by clicking on colorful buttons. Built with React, Vite, and styled with Tailwind CSS.
 
 
-<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/36aad9c8-353b-4c7a-b9a3-d49521fff9ba" />
-<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/9d00c055-cf52-4f1a-8156-68bc217fde41" />
-<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/f9c21462-8bc6-49c0-9c5c-67f22c63ae0f" />
-<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/607947b9-b710-401a-9797-b837bdf371fc" />
-<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/e517d844-ee8b-4bdf-9fac-f0f8d30e0f9f" />
-<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/284f677c-0efd-47d3-bf9b-6f19b080e0f1" />
-<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/7bb65672-8e5d-4e6d-b40a-ab173cfc66ae" />
 
 ## 🎨 Features
 
@@ -100,3 +93,13 @@ This project demonstrates fundamental React concepts including:
 - Fast development with Vite
 
 Perfect for learning React basics or as a foundation for more complex applications!
+
+
+
+<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/36aad9c8-353b-4c7a-b9a3-d49521fff9ba" />
+<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/9d00c055-cf52-4f1a-8156-68bc217fde41" />
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/f9c21462-8bc6-49c0-9c5c-67f22c63ae0f" />
+<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/607947b9-b710-401a-9797-b837bdf371fc" />
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/e517d844-ee8b-4bdf-9fac-f0f8d30e0f9f" />
+<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/284f677c-0efd-47d3-bf9b-6f19b080e0f1" />
+<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/7bb65672-8e5d-4e6d-b40a-ab173cfc66ae" />
